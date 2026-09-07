@@ -2,7 +2,7 @@
 
 Touchless smart trash bin with automatic lid control and real-time fill-level monitoring, built on an ATmega328P using interrupt-driven embedded C.
 
-![Alt text](https://imgur.com/a/IiXgazg)
+![Demo Image](https://imgur.com/a/IiXgazg)
 
 ## What It Does
 
